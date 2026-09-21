@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { experience, education, volunteer } from "../../data/resume";
+import { experience, education } from "../../data/resume";
 import styles from "./Experience.module.css";
 
 type Item = {

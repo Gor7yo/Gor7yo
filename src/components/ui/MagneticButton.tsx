@@ -1,5 +1,6 @@
 import { motion, useMotionValue, useSpring } from "framer-motion";
-import { ReactNode, useRef } from "react";
+import { useRef } from "react";
+import type { ReactNode } from "react";
 import styles from "./MagneticButton.module.css";
 
 type Props = {
@@ -9,7 +10,12 @@ type Props = {
   onClick?: () => void;
 };
 
-export const MagneticButton = ({ children, href, variant = "default", onClick }: Props) => {
+export const MagneticButton = ({
+  children,
+  href,
+  variant = "default",
+  onClick,
+}: Props) => {
   const ref = useRef<HTMLAnchorElement & HTMLButtonElement>(null);
   const x = useMotionValue(0);
   const y = useMotionValue(0);
@@ -22,7 +28,10 @@ export const MagneticButton = ({ children, href, variant = "default", onClick }:
     x.set((e.clientX - r.left - r.width / 2) * 0.3);
     y.set((e.clientY - r.top - r.height / 2) * 0.3);
   };
-  const leave = () => { x.set(0); y.set(0); };
+  const leave = () => {
+    x.set(0);
+    y.set(0);
+  };
 
   const cls = `${styles.btn} ${variant === "primary" ? styles.primary : ""}`;
 
