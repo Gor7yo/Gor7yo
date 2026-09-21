@@ -1,6 +1,6 @@
 # Gor Serobyan — Portfolio
 
-**Live:** [gor-portfolio.vercel.app](https://gor-portfolio.vercel.app)
+**Live:** [gor-portfolio.vercel.app](https://gor7yo.vercel.app/)
 
 ## Stack
 
