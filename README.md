@@ -6,7 +6,7 @@ I’m a Fullstack Developer with **3+ years of commercial freelance experience**
 
 I work mainly with **React, Next.js, TypeScript, Node.js, NestJS and PostgreSQL** — from frontend interfaces to backend architecture, APIs and deployment.
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Frontend**
 React · Next.js · TypeScript · JavaScript · Redux · MobX · HTML5 · CSS3 · Tailwind CSS
