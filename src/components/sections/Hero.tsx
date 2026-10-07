@@ -7,9 +7,9 @@ import { profile } from "../../data/resume";
 import styles from "./Hero.module.css";
 
 const ROLES = [
-  "Frontend Developer",
-  "React / TypeScript",
-  "Aspiring Fullstack Engineer",
+  "Fullstack Developer",
+  "React / Node.js / TypeScript",
+  "Next.js / NestJS / PostgreSQL",
 ];
 
 const useTypewriter = (words: string[], speed = 80, pause = 1500) => {

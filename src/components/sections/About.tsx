@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 import styles from "./About.module.css";
 
 const STATS = [
-  { value: "3+", label: "years coding" },
-  { value: "6+", label: "tech in stack" },
+  { value: "3+", label: "years commercial" },
+  { value: "1 mo", label: "to start" },
   { value: "3", label: "languages" },
   { value: "100%", label: "ready to relocate" },
 ];
@@ -40,17 +40,17 @@ export const About = () => (
           whileInView="show"
           viewport={{ once: true, margin: "-100px" }}
         >
-          I'm a <strong>Junior Frontend Developer</strong> actively growing
-          toward fullstack development. I have hands-on experience building pet
-          projects and working commercially with{" "}
-          <strong>REST APIs, databases, and backend logic optimization</strong>.
+          I'm a <strong>Fullstack Developer</strong> with 3+ years of
+          commercial freelance experience building web applications
+          end-to-end, from requirements and architecture to{" "}
+          <strong>production deployment</strong>.
           <br />
-          <br />I work with{" "}
-          <strong>
-            JavaScript, TypeScript, React, Node.js, Nest.js, and Next.js
-          </strong>
-          . I pick up new technologies quickly, pay attention to detail, and
-          focus on results. Ready to relocate and work in a team.
+          <br />I'm strong in{" "}
+          <strong>React/Next.js and TypeScript</strong> on the frontend and{" "}
+          <strong>Node.js/NestJS with PostgreSQL</strong> on the backend. Used
+          to owning projects solo, communicating directly with clients, and
+          delivering on deadlines. Looking to join a product team where I can
+          grow and take ownership of meaningful features.
         </motion.p>
 
         <motion.div
