@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gor 👋</h1>
+<h1 align="center">Hi there, I'm Gor</h1>
 
 <hr>
 
@@ -11,15 +11,6 @@
 <p align="center">
   <a href="https://gor7yo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gor7yo.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"></a>
   <a href="https://github.com/Gor7yo"><img src="https://img.shields.io/badge/GitHub-@Gor7yo-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a>
-</p>
-
-<hr>
-
-<h2 align="center">About</h2>
-
-<p align="center">
-  I'm a Fullstack Developer focused on building modern, scalable web applications —<br>
-  from frontend interfaces to backend architecture, APIs and deployment.
 </p>
 
 <hr>
@@ -57,28 +48,4 @@
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" alt="WebRTC">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-<hr>
-
-<h2 align="center">What I'm interested in</h2>
-
-<p align="center">
-  Fullstack web development · Product development · Scalable backend architecture<br>
-  Performance optimization · Clean and maintainable code · Building things from scratch
-</p>
-
-<hr>
-
-<h2 align="center">Featured</h2>
-
-<p align="center">
-  <a href="https://gor7yo.vercel.app/"><b>gor7yo.vercel.app</b></a> — portfolio
-</p>
-
-<hr>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to_relocation-2ea44f?style=for-the-badge" alt="Open to relocation">
-  <img src="https://img.shields.io/badge/Available_within_one_week-0366d6?style=for-the-badge" alt="Available within one week">
 </p>
