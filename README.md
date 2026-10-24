@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Gor</h1>
 
-<hr>
-
 <p align="center">
   <b>Gor · Fullstack Developer</b><br>
   React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL<br>
